@@ -1,0 +1,20 @@
+.card{
+    padding: 25px;
+    border: solid 1px grey;
+    border-radius: 10px;
+    width: 220px;
+    margin: 20px;
+}
+.card .email{
+    padding-top: 8px;
+}
+.top-container{
+    display: flex;
+    align-items: center;
+}
+.userName{
+    margin: 4px 8px;
+}
+.name{
+    margin: 12px 12px;
+}

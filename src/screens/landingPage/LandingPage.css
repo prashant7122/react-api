@@ -1,0 +1,18 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #dbedf3;
+}
+
+.user-list-btn{
+    background: #00818a;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
